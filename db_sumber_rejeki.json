@@ -1,0 +1,28 @@
+{
+
+	"sumber_rejeki": [
+
+		{
+
+			"kode_barang": "1",
+			"nama_barang": "Kelompen",
+			"email": "alexander@uisi.ac.id",
+			"gender" : "male"
+
+		},
+
+		{
+			"id": "1088",
+			"name": "Mellisa",
+			"email": "mellisa@uisi.ac.id",
+			"gender" : "female",
+			"contact": {
+				"mobile": "+62 0000000000",
+				"home": "00 000000",
+				"office": "00 000000"
+			}
+		}
+
+
+]
+	}
